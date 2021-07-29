@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Eng-91\\CSharpCurriculum\\CSharp-Core\\02_UnitTests\\Labs\\02b_TestFirstExercises\\TestFirstExercises_Tests\\TestFirstExercises_Tests.csproj": {}
+    "C:\\Users\\h8bmf\\source\\repos\\CSharpHomework\\TestFirstExercises_Tests\\TestFirstExercises_Tests.csproj": {}
   },
   "projects": {
-    "E:\\Eng-91\\CSharpCurriculum\\CSharp-Core\\02_UnitTests\\Labs\\02b_TestFirstExercises\\TestFirstExercises_Lib\\TestFirstExercises_Lib.csproj": {
+    "C:\\Users\\h8bmf\\source\\repos\\CSharpHomework\\TestFirstExercises_Lib\\TestFirstExercises_Lib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Eng-91\\CSharpCurriculum\\CSharp-Core\\02_UnitTests\\Labs\\02b_TestFirstExercises\\TestFirstExercises_Lib\\TestFirstExercises_Lib.csproj",
+        "projectUniqueName": "C:\\Users\\h8bmf\\source\\repos\\CSharpHomework\\TestFirstExercises_Lib\\TestFirstExercises_Lib.csproj",
         "projectName": "TestFirstExercises_Lib",
-        "projectPath": "E:\\Eng-91\\CSharpCurriculum\\CSharp-Core\\02_UnitTests\\Labs\\02b_TestFirstExercises\\TestFirstExercises_Lib\\TestFirstExercises_Lib.csproj",
-        "packagesPath": "C:\\Users\\MBeard\\.nuget\\packages\\",
-        "outputPath": "E:\\Eng-91\\CSharpCurriculum\\CSharp-Core\\02_UnitTests\\Labs\\02b_TestFirstExercises\\TestFirstExercises_Lib\\obj\\",
+        "projectPath": "C:\\Users\\h8bmf\\source\\repos\\CSharpHomework\\TestFirstExercises_Lib\\TestFirstExercises_Lib.csproj",
+        "packagesPath": "C:\\Users\\h8bmf\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\h8bmf\\source\\repos\\CSharpHomework\\TestFirstExercises_Lib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\MBeard\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\h8bmf\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -58,26 +60,28 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Eng-91\\CSharpCurriculum\\CSharp-Core\\02_UnitTests\\Labs\\02b_TestFirstExercises\\TestFirstExercises_Tests\\TestFirstExercises_Tests.csproj": {
+    "C:\\Users\\h8bmf\\source\\repos\\CSharpHomework\\TestFirstExercises_Tests\\TestFirstExercises_Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Eng-91\\CSharpCurriculum\\CSharp-Core\\02_UnitTests\\Labs\\02b_TestFirstExercises\\TestFirstExercises_Tests\\TestFirstExercises_Tests.csproj",
+        "projectUniqueName": "C:\\Users\\h8bmf\\source\\repos\\CSharpHomework\\TestFirstExercises_Tests\\TestFirstExercises_Tests.csproj",
         "projectName": "TestFirstExercises_Tests",
-        "projectPath": "E:\\Eng-91\\CSharpCurriculum\\CSharp-Core\\02_UnitTests\\Labs\\02b_TestFirstExercises\\TestFirstExercises_Tests\\TestFirstExercises_Tests.csproj",
-        "packagesPath": "C:\\Users\\MBeard\\.nuget\\packages\\",
-        "outputPath": "E:\\Eng-91\\CSharpCurriculum\\CSharp-Core\\02_UnitTests\\Labs\\02b_TestFirstExercises\\TestFirstExercises_Tests\\obj\\",
+        "projectPath": "C:\\Users\\h8bmf\\source\\repos\\CSharpHomework\\TestFirstExercises_Tests\\TestFirstExercises_Tests.csproj",
+        "packagesPath": "C:\\Users\\h8bmf\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\h8bmf\\source\\repos\\CSharpHomework\\TestFirstExercises_Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\MBeard\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\h8bmf\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -90,8 +94,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "E:\\Eng-91\\CSharpCurriculum\\CSharp-Core\\02_UnitTests\\Labs\\02b_TestFirstExercises\\TestFirstExercises_Lib\\TestFirstExercises_Lib.csproj": {
-                "projectPath": "E:\\Eng-91\\CSharpCurriculum\\CSharp-Core\\02_UnitTests\\Labs\\02b_TestFirstExercises\\TestFirstExercises_Lib\\TestFirstExercises_Lib.csproj"
+              "C:\\Users\\h8bmf\\source\\repos\\CSharpHomework\\TestFirstExercises_Lib\\TestFirstExercises_Lib.csproj": {
+                "projectPath": "C:\\Users\\h8bmf\\source\\repos\\CSharpHomework\\TestFirstExercises_Lib\\TestFirstExercises_Lib.csproj"
               }
             }
           }
@@ -134,7 +138,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

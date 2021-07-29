@@ -1,0 +1,12 @@
+C:\Users\h8bmf\source\repos\CSharpHomework\TestFirstExercises_Lib\bin\Debug\net5.0\TestFirstExercises_Lib.deps.json
+C:\Users\h8bmf\source\repos\CSharpHomework\TestFirstExercises_Lib\bin\Debug\net5.0\TestFirstExercises_Lib.dll
+C:\Users\h8bmf\source\repos\CSharpHomework\TestFirstExercises_Lib\bin\Debug\net5.0\ref\TestFirstExercises_Lib.dll
+C:\Users\h8bmf\source\repos\CSharpHomework\TestFirstExercises_Lib\bin\Debug\net5.0\TestFirstExercises_Lib.pdb
+C:\Users\h8bmf\source\repos\CSharpHomework\TestFirstExercises_Lib\obj\Debug\net5.0\TestFirstExercises_Lib.csproj.AssemblyReference.cache
+C:\Users\h8bmf\source\repos\CSharpHomework\TestFirstExercises_Lib\obj\Debug\net5.0\TestFirstExercises_Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\h8bmf\source\repos\CSharpHomework\TestFirstExercises_Lib\obj\Debug\net5.0\TestFirstExercises_Lib.AssemblyInfoInputs.cache
+C:\Users\h8bmf\source\repos\CSharpHomework\TestFirstExercises_Lib\obj\Debug\net5.0\TestFirstExercises_Lib.AssemblyInfo.cs
+C:\Users\h8bmf\source\repos\CSharpHomework\TestFirstExercises_Lib\obj\Debug\net5.0\TestFirstExercises_Lib.csproj.CoreCompileInputs.cache
+C:\Users\h8bmf\source\repos\CSharpHomework\TestFirstExercises_Lib\obj\Debug\net5.0\TestFirstExercises_Lib.dll
+C:\Users\h8bmf\source\repos\CSharpHomework\TestFirstExercises_Lib\obj\Debug\net5.0\ref\TestFirstExercises_Lib.dll
+C:\Users\h8bmf\source\repos\CSharpHomework\TestFirstExercises_Lib\obj\Debug\net5.0\TestFirstExercises_Lib.pdb

@@ -8,6 +8,8 @@ namespace TestFirstExercises_Tests
         [TestCase(5, 2, true)]
         [TestCase(2, 5, false)]
         [TestCase(5, 5, true)]
+        [TestCase(-20, 5, false)]
+        [TestCase(5, -20, true)]
         public void GivenTwoNumbersXY_GreaterEqual_ReturnsWhetherXIsGreatorOrEqualToY(int x, int y, bool expResult)
         {
             Assert.That(Methods.GreaterEqual(x, y), Is.EqualTo(expResult));
